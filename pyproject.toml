@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "untitled folder 2"
+version = "0.1.0"
+description = ""
+authors = ["bharaths44 <bharathsatheesan@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.15"
+tensorflow = "^2.18.0"
+pillow = "^11.0.0"
+opencv-python = "^4.10.0.84"
+scipy = "^1.14.1"
+mediapipe = "^0.10.18"
+scikit-learn = "^1.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
