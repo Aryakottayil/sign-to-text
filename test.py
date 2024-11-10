@@ -49,8 +49,6 @@ label_encoder = [
     "X",
     "Y",
     "Z",
-    "del",
-    "space",
 ]  # Replace with your actual labels
 
 # Start webcam feed
